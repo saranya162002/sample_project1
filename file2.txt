@@ -1,3 +1,0 @@
-Ref: refer file1.txt then this one
-***sample file for branching in the master ****
- (branching 2 w.r.t master branch)
